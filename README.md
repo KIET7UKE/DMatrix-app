@@ -1,3 +1,15 @@
+
+Have you ever wanted to build a delivery app that will calculate the shortest distance from each drop off spot? Get extra API requests using ANIAKUBOW after(!) signing up, here: https://bit.ly/3uCAkvK
+
+Now, for those of you who have never heard the buzz word Matrix Routing before, it is what we will be using to optimise our multiple deliveries by travel time.
+
+We are going to be using TomTom Map SDK for Web, to show us the best route for us as the delivery driver, to drop off all three deliveries based on time, taking:
+
+The route into account
+The traffic on the roads into account.
+The traffic incidents on the roads into account
+The final route is calculated using the “Routing API” which by default will do a “car”  route. But it can do way more than that. It can calculate the routes for motorcycles, vans, trucks or pedestrians! As you can image, the results will vary. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
