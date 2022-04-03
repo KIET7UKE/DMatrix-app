@@ -13,6 +13,10 @@ We are going to be using TomTom Map SDK for Web, to show us the best route for u
 
 The final route is calculated using the “Routing API” which by default will do a “car”  route. But it can do way more than that. It can calculate the routes for motorcycles, vans, trucks or pedestrians! As you can image, the results will vary. 
 
+Thanks for viewing my code!
+
+## You can also connect with me on:
+linkedin: https://www.linkedin.com/in/kiet7uke/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
