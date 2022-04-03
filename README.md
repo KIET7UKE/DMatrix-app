@@ -1,5 +1,5 @@
 
-Have you ever wanted to build a delivery app that will calculate the shortest distance from each drop off spot? Get extra API requests using ANIAKUBOW after(!) signing up, here: https://bit.ly/3uCAkvK
+Have you ever wanted to build a delivery app that will calculate the shortest distance from each drop off spot?
 
 Now, for those of you who have never heard the buzz word Matrix Routing before, it is what we will be using to optimise our multiple deliveries by travel time.
 
